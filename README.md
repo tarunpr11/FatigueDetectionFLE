@@ -26,7 +26,9 @@ The core of this project is a Federated Multi-Modal Attention Architecture.
 ## 📂 Repository Structure
 .
 ├── Centralized.ipynb        # Notebook for the baseline (non-private) model.
+
 ├── FLE_Implementation.ipynb   # Notebook with the full Federated Learning simulation.
+
 └── README.md                # This readme file.
 
 ## 🚀 Getting Started
